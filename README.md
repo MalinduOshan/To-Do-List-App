@@ -1,11 +1,14 @@
 # To-Do-List-App
 To-Do List App A simple and interactive To-Do List application built using HTML, CSS, and JavaScript. This app allows users to manage their daily tasks with ease, providing features like adding tasks, marking them as completed, and removing them. 
+![image alt](https://github.com/MalinduOshan/To-Do-List-App/blob/977742b4d062d4ec4a0d605ba0616b1738aca5a2/Screenshot%20(96).png)
+![image alt](https://github.com/MalinduOshan/To-Do-List-App/blob/977742b4d062d4ec4a0d605ba0616b1738aca5a2/Screenshot%20(97).png)
 
 Features
 Add new tasks to the list.
 Remove tasks using a delete button (×).
 Clear input field automatically after adding a task.
 Minimal and clean user interface.
+![image alt](https://github.com/MalinduOshan/To-Do-List-App/blob/977742b4d062d4ec4a0d605ba0616b1738aca5a2/Screenshot%20(98).png)
 
 How to Use
 Clone or download the repository.
